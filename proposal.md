@@ -1,0 +1,12 @@
+# "The Dragon Slayer or The Dragon's Lair?!"
+## **Description** - This is intended to be a short text-based adventure that revolves around the main character as a knight traversing through a dragon's lair to slay the beast, a relatively simple idea, but on top of that I really hope to include humorous gags and the like.
+## **Features** - There will be an inventory, using dictionaries and lists. Additionally there will be QUITE a bit a of user input, and using a plentiful amount of if/else statements for what the player says, much like our demo with the fellowship and determining what race they were, etc..
+## **Challenges** - Most of my issues will come from after the code is implemented, as the player will have an infinite amount of possibilities as to what they can say, but I can obviously only code a few outcomes, as I am one man at my humble computer. otherwise, I will have to look for insporation in what I hope to somewhat replicate, The Hobbit, the text based adventure released a long time ago, that will be where most of my ideas within the code might emerge, looking for how the computer is asking the player to react, or what can be done within the adventure, and more.
+## **Outcomes**
+##   1. **Ideal Outcome** - I create a text based game that multiple of my friends, family and peers can revisit, and possibly even strangers who simply wish to have an adventure!
+##   2. **Minimal Viable Outcome** - my minimum that I hope to strive for is a text based adventure, but one that really only has two given options or possibilities at a given point, less than that is simply a book. 
+## **Milestones** -
+##      1st week - I hope to have a solid story written out, possibilites MOSTLY splayed out, but leaving room for possible branches later on
+##      2nd week - I hope to have started the main stem of the story, and possibly finish the 'main' route for the game
+##      3rd week - On the 3rd week I want to flesh out the other mechanics of the game, besides the ones inherent to a text based game. An inventory, or combat, something to give it an edge
+##      4th week - This is where I hope to delve into possible branches for the player to delve into, possibly spawning one or two alternate endings for the story if given myself enough time.
