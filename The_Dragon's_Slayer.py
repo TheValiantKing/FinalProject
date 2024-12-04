@@ -11,7 +11,7 @@ def main():
 
     # Create a resizable window
     screen = pygame.display.set_mode((window_width, window_height), pygame.RESIZABLE)
-    pygame.display.set_caption("Knight's Quest: Dragon's Lair")
+    pygame.display.set_caption("The Dragon's Slayer")
 
     # Define fonts and colors
     font = pygame.font.Font(None, 36)
